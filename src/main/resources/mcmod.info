@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tfcstacks",
+  "name": "TFC Stacks",
+  "description": "TFC addon for configurable stack sizes.",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lumintorious"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
